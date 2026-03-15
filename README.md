@@ -42,7 +42,7 @@ Half wave rectifier with filter:
 
 Bridge rectifier with filter:
 
-<img src="Screenshot 2026-03-15 165855.png.png">
+<img src="Screenshot 2026-03-15 165855.png">
 
 TABULAR COLUMN for Rectifier without filter and Rectifier with filter 
 
